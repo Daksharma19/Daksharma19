@@ -5,9 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=60&lines=Daksh+Sharma;Full-stack+developer;I+build+things+that+ship" alt="Typing SVG" />
 </a>
 
-<!-- Visitor counter -->
-<img src="https://komarev.com/ghpvc/?username=Daksharma19&label=Profile%20views&color=58a6ff&style=flat" alt="profile views" />
-
 </div>
 
 ---

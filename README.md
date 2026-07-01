@@ -2,7 +2,7 @@
 
 <!-- Typing SVG header -->
 <a href="https://github.com/Daksharma19">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=60&lines=Daksh+Sharma;Full-stack+developer;I+build+things+that+ship" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=60&lines=Daksh+Sharma;" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,9 +12,9 @@
 ### About
 
 ```text
-Full-stack developer. I care about clean APIs, sane data models,
-and shipping software that holds up in production.
-Mostly TypeScript and Node, comfortable across the stack.
+Full-stack developer who enjoys building things end to end,
+from backend logic to the UI people actually touch.
+Still learning, still shipping, and always fixing something.
 ```
 
 ---
@@ -30,7 +30,6 @@ Mostly TypeScript and Node, comfortable across the stack.
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
@@ -39,7 +38,7 @@ Mostly TypeScript and Node, comfortable across the stack.
 <!-- <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Daksharma19&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub stats" /> -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksharma19&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksharma19&layout=compact&hide_border=true&theme=github_dark&langs_count=8" alt="Top languages" /> -->
 
 <br/>
 
@@ -57,15 +56,16 @@ Mostly TypeScript and Node, comfortable across the stack.
 ### Connect
 
 <div align="center">
-
+<a href="https://www.geeksforgeeks.org/profile/shypery20?from=edit&tab=activity">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="G4G" />
+</a>
 <a href="https://www.linkedin.com/in/daksh-sharma-287297178/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://leetcode.com/u/shyper73/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
 </a>
 <a href="mailto:shyper73@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-
 </div>
